@@ -1,7 +1,24 @@
 # The Getris's FM Synth
 
 ## Folder structure
-
+```bash
+.
+├── README.md
+├── UGen graphs
+│   ├── fm1.pdf
+│   ├── fm2.pdf
+│   ├── fm3.pdf
+│   ├── fm4.pdf
+│   └── master.pdf
+├── images
+│   ├── algo1-3BIANCO.png
+│   ├── algo2-2BIANCO.png
+│   ├── algo3-1BIANCO.png
+│   └── algoCascataBIANCO.png
+├── report TheGetirs.pdf
+└── sc
+    └── FMSynth.scd
+```
 
 ## Introduction 
 The main idea of our project is to create a synthesizer based on the FM synthesis.
