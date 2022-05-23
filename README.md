@@ -14,8 +14,9 @@
 │   ├── algo1-3BIANCO.png
 │   ├── algo2-2BIANCO.png
 │   ├── algo3-1BIANCO.png
-│   └── algoCascataBIANCO.png
-├── report TheGetirs.pdf
+│   ├── algoCascataBIANCO.png
+│   └── realegetir.png
+├── report HW1 - TheGetirs.pdf
 └── sc
     └── FMSynth.scd
 ```
@@ -45,3 +46,8 @@ Under the algorithms section, we have implemented an envelope section. 4 types o
 The envelope shape can be customized through the designing section in which you can move the dots to modify the parameters of the envelope, with a graphic feedback.
 
 ![image](https://user-images.githubusercontent.com/99413338/161451176-44e90b99-d4de-4f66-a4ec-311d8c0b9001.png)
+
+## Authors
+![getirs](images/realegetir.png) 
+
+Di Palma - Gargiulo - Orsatti - Morena - Perego
